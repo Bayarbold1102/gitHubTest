@@ -1,3 +1,7 @@
 Boldoo n bnoo
 te
+<<<<<<< Updated upstream
 yr n bol bolku l ymshg bndas
+=======
+tged yr n yahaar ymshig bn
+>>>>>>> Stashed changes
